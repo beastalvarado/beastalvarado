@@ -59,3 +59,4 @@ My home lab simulates a real-world network with segmented environments designed 
   <img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
   
+## Network Diagram ![ChatGPT Image May 9, 2025, 05_53_28 PM](https://github.com/user-attachments/assets/73e98585-6759-43ff-812f-bc8356e6496a)
